@@ -1,0 +1,14 @@
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\bin\Debug\netstandard2.0\HolaMundo.deps.json
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\bin\Debug\netstandard2.0\HolaMundo.dll
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\bin\Debug\netstandard2.0\ref\HolaMundo.dll
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\bin\Debug\netstandard2.0\HolaMundo.pdb
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\HolaMundo.csprojAssemblyReference.cache
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\HolaMundo.AssemblyInfo.cs
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\HolaMundo.dll
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\ref\HolaMundo.dll
+C:\Users\jasom\Desktop\Xamarin\HolaMundo\HolaMundo\HolaMundo\obj\Debug\netstandard2.0\HolaMundo.pdb

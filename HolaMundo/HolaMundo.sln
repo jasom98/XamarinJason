@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo.Android", "HolaMundo\HolaMundo.Android\HolaMundo.Android.csproj", "{E6360BEC-B9AC-4625-ADD3-A92C274F7515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo", "HolaMundo\HolaMundo\HolaMundo.csproj", "{05F08322-09D0-4ADA-BE96-7A6C018D7BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6360BEC-B9AC-4625-ADD3-A92C274F7515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6360BEC-B9AC-4625-ADD3-A92C274F7515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6360BEC-B9AC-4625-ADD3-A92C274F7515}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E6360BEC-B9AC-4625-ADD3-A92C274F7515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6360BEC-B9AC-4625-ADD3-A92C274F7515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6360BEC-B9AC-4625-ADD3-A92C274F7515}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{05F08322-09D0-4ADA-BE96-7A6C018D7BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F08322-09D0-4ADA-BE96-7A6C018D7BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F08322-09D0-4ADA-BE96-7A6C018D7BB3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{05F08322-09D0-4ADA-BE96-7A6C018D7BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F08322-09D0-4ADA-BE96-7A6C018D7BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F08322-09D0-4ADA-BE96-7A6C018D7BB3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FB8493-9F3C-47DB-A944-C3229B08F505}
+	EndGlobalSection
+EndGlobal

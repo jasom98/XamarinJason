@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HolaMundo.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Mi Calculadora: Jason Mz." HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <ScrollView Orientation="Vertical">
+            <StackLayout Orientation="Vertical"
+                     Padding="20">
+
+                <StackLayout Orientation="Vertical" BackgroundColor="#2196F3" Padding="24">
+                    
+                    <Label Text="First Number" TextColor="White" FontSize="20"/>
+
+                    <Entry Placeholder="Digite un numero" x:Name="Number1" Keyboard="Numeric"/>
+
+                    <Label Text="Second Number" TextColor="White" FontSize="20"/>
+
+                    <Entry Placeholder="Digite un numero" x:Name="Number2" Keyboard="Numeric"/>
+                    
+                </StackLayout>
+
+                
+
+                <Button Text="Suma" BackgroundColor="White" TextColor="Black" Margin="10"
+                        Clicked="Button_Clicked"/>
+                <Button Text="Resta" BackgroundColor="White" TextColor="Black" Margin="10"
+                        x:Name="btn_resta" Clicked="btn_resta_Clicked"/>
+                <Button Text="Multiplicación" BackgroundColor="White" TextColor="Black" Margin="10"
+                        Clicked="Button_Clicked_1"/>
+                <Button Text="Division" BackgroundColor="White" TextColor="Black" Margin="10"
+                        Clicked="btn_division_Clicked"/>
+                <Button Text="Limpiar campos" BackgroundColor="White" TextColor="Blue" Margin="10"
+                        Clicked="Limpiar"/>
+
+                <Frame BackgroundColor="AliceBlue" Margin="20">
+                    <Label Text="Resultado:" TextColor="Black" FontSize="30" HorizontalTextAlignment="Center"
+                       x:Name="Resultado"/>
+                </Frame>
+
+                
+
+            </StackLayout>
+        </ScrollView>
+        
+        
+
+
+        
+
+
+
+    </StackLayout>
+
+</ContentPage>
