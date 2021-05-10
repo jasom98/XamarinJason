@@ -1,0 +1,15 @@
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\bin\Debug\netstandard2.0\CalcJason.deps.json
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\bin\Debug\netstandard2.0\CalcJason.dll
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\bin\Debug\netstandard2.0\ref\CalcJason.dll
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\bin\Debug\netstandard2.0\CalcJason.pdb
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\CalcJason.csprojAssemblyReference.cache
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\CalcJason.AssemblyInfoInputs.cache
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\CalcJason.AssemblyInfo.cs
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\CalcJason.csproj.CoreCompileInputs.cache
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\CalcJason.dll
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\ref\CalcJason.dll
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\CalcJason.pdb
+C:\Users\jasom\source\repos\CalcJason\CalcJason\CalcJason\obj\Debug\netstandard2.0\Spinner.xaml.g.cs

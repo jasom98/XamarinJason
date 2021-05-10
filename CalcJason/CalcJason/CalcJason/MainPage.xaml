@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalcJason.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Calculadora: Jason Mz." HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <StackLayout Orientation="Vertical" Margin="20" >
+
+            <Label Text="Firts Number" FontSize="20" TextColor="Black"/>
+            <Entry x:Name="num1" Placeholder="digite un numero" Keyboard="Numeric"
+                   HorizontalTextAlignment="Center"/>
+            <Label Text="Second Number" FontSize="20" TextColor="Black"/>
+            <Entry x:Name="num2" Placeholder="digite un numero" Keyboard="Numeric"
+                   HorizontalTextAlignment="Center"/>
+            <Picker x:Name="pkOperaciones" SelectedIndexChanged="OperacionesPicker"
+                    Title="Seleccionar opción"/>
+            
+            <Label Text="Resultado:" FontSize="25" HorizontalTextAlignment="Center" TextColor="Black" Margin="10"
+                   x:Name="resultado"/>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
